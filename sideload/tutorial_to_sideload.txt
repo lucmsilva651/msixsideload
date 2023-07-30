@@ -1,0 +1,13 @@
+[ydl-sideload]
+[tutorial]
+====================================================
+How to sideload a .msixbundle app with ydl-sideload:
+1. Download your .msixbundle app from a trusted
+source (ie. GitHub)
+2. Paste the file here (in this folder) and rename
+it to "ydl-sideload.msixbundle".
+3. Run the script with "run.cmd" in the main folder.
+====================================================
+Made by Lucas Gabriel (lucmsilva) for ydl-team
+ - https://github.com/ydl-team/
+In July 2023
